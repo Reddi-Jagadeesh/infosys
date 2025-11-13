@@ -1,1 +1,2 @@
 Hi This is new file using for practice infosys interview 
+Here iam checking git clone concept
